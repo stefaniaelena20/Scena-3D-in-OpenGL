@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="exercitiu/exercitiu.vcxproj" Id="b3a01961-e702-4638-968c-88d0f3999c47" />
+</Solution>
